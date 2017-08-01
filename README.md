@@ -1,5 +1,5 @@
 
-Grafana provides utilities to gain insights into the database, system status, logging, etc.
+**[Grafana](http://grafana.org/)** provides utilities to gain insights into the database, system status, logging, etc.
 
 ![Image of metrics](docs/new-dashboard-example.png)
 
