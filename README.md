@@ -1,9 +1,5 @@
-# Chameleon-Admin-Console
 
-**PROVISIONAL SOFTWARE DISCLAIMER**: This software is preliminary and is subject to revision. 
-
-Codename chameleon provides utilities to gain insights into the database, system status, logging,
-etc.
+Grafana provides utilities to gain insights into the database, system status, logging, etc.
 
 ![Image of metrics](docs/new-dashboard-example.png)
 
